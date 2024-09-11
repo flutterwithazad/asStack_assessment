@@ -1,0 +1,32 @@
+name: ad_stacks
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0-134.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+  badges: ^3.1.2
+  table_calendar: ^3.1.2
+  syncfusion_flutter_calendar: ^26.2.14
+  fl_chart: ^0.69.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  
+  assets:
+    - assets/images/logo.png
+    - assets/images/avt1.jpeg
+    - assets/images/avt2.jpeg
+    - assets/images/avt3.jpeg
+    - assets/images/avt4.jpeg
+    - assets/images/sparkles.png

@@ -38,7 +38,7 @@ class _HomepageState extends State<Homepage> {
     ];
 
     List topCreatorUsername = [
-      "@maddison_452",
+      "@maddson_452",
       "@karliwill_02",
       "@maddison_452",
       "@maddison_452"
